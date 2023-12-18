@@ -1,0 +1,66 @@
+[ 
+  {
+    "name": "Peanut Butter Cake",
+    "regular": "4,595.00",
+    "discount": "4,135.00",
+    "id": 1,
+    "image": "/src/photos/shop/Peanut-Butter-500x500.png"
+  },
+
+  {
+    "name": "Salted Caramel Cake",
+    "regular": "4,800.00",
+    "discount": "4,320.00",
+    "id": 1,
+    "image": "/src/photos/shop/Salted-Caramel-Cake-500x500.png"
+  },
+  {
+    "name": "Chcolate Mocha Cake",
+    "regular": "3,500.00",
+    "discount": "3,150.00",
+    "id": 1,
+    "image": "/src/photos/shop/Chcolate-Mocha-Cake-500x500.jpg"
+  },
+  {
+    "name": "White Chocolate Macadamia",
+    "regular": "3,500.00",
+    "discount": "3,150.00",
+    "id": 1,
+    "image": "/src/photos/shop/White-Chocolate-Macadamia-500x500.jpg"
+  },
+  {
+    "name": " Cappuccino Cheese Cake",
+    "regular": "4,350.00 ",
+    "discount": "3,915.00",
+    "id": 1,
+    "image": "/src/photos/shop/New-arrival-Cake-Cappuchino-cake-500x500.png"
+  },
+  {
+    "name": " Chocolate Brulee",
+    "regular": "320.00",
+    "discount": "3,195.00",
+    "id": 1,
+    "image": "/src/photos/shop/Chocolate-Brulee-Cake.jpg"
+  },
+  {
+    "name": " Royal Marble Cheese Cake",
+    "regular": "432.00",
+    "discount": "4,320.00",
+    "id": 1,
+    "image": "/src/photos/shop/Royal-Marble-Cheese-Cake.jpg"
+  },
+  {
+    "name": "Chocolate Cheese Cake",
+    "regular": "432.00",
+    "discount": "4,320.00",
+    "id": 1,
+    "image": "/src/photos/shop/Chocolate-Cheese-Cake-.jpg"
+  },
+  {
+    "name": "Chocolate Indulgence Mega",
+    "regular": "428.00",
+    "discount": "4,275.00",
+    "id": 1,
+    "image": "/src/photos/shop/Chocolate-Indulgence-Mega-.jpg"
+  }
+]
