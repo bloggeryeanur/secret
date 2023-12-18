@@ -1,4 +1,4 @@
-import { Box, Container, Typography } from "@mui/material";
+import { Box, Button, Container, Typography } from "@mui/material";
 import Banner from "../../photos/contact/banner.png";
 import Image from "next/image";
 import Input from "@mui/material/Input";
@@ -54,12 +54,18 @@ const ContactPage = () => {
             }}
             noValidate
             autoComplete="off">
-            <Input placeholder="Hello world" inputProps={ariaLabel} />
-            <Input placeholder="Placeholder" inputProps={ariaLabel} /><br />
-            <Input placeholder="Disabled" inputProps={ariaLabel} />
-            <Input placeholder="Error" inputProps={ariaLabel} />
+            <Input placeholder="Name" inputProps={ariaLabel} />
+            <Input placeholder="Email" inputProps={ariaLabel} /><br />
+            <Input placeholder="Your massage" inputProps={ariaLabel} />
+            <Input placeholder="Outlate" inputProps={ariaLabel} />
           </Box>
         </Box>
+            <Box sx={{
+              display: 'flex',
+              justifyContent: 'center'
+            }}>
+            <Button variant="outlined" color='secondary'>Send</Button>
+            </Box>
       </Box>
     </Container>
   );
