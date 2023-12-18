@@ -56,7 +56,7 @@ const Item = styled(Paper)(({ theme }) => ({
   color: theme.palette.text.secondary,
 }));
 
-const page = () => {
+const MenuPage = () => {
   return (
     <Container maxWidth="xl">
       <Box>
@@ -129,4 +129,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default MenuPage;
