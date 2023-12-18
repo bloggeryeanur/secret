@@ -52,7 +52,7 @@ const pages = [
     id: "6",
   },
 ];
-const settings = ["Profile", "Account", "Dashboard", "Logout"];
+
 
 const NavBar = () => {
   const [anchorElNav, setAnchorElNav] = useState("");
