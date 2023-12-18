@@ -5,7 +5,7 @@ import MainHome from "./Component/MainHome";
 export default function Home() {
   return (
     <Container maxWidth>
-      <MainHome></MainHome>
+      <MainHome></MainHome> 
     </Container>
   
   )
